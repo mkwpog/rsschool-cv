@@ -1,2 +1,3 @@
 # rsschool-cv
-https://mkwpog.github.io/rsschool-cv/cv
+## CV1: https://mkwpog.github.io/rsschool-cv/cv
+## CV2: https://mkwpog.github.io/rsschool-cv/
